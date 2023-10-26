@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Zoo ticket website - Angular with Asp.net**
+ 🔭 I’m currently working on **Self-Sovereign Identity Mobile**
  
- 🌱 I’m currently learning **Angular with Asp.net and azure**
+ 🌱 I’m currently learning **Aries Framework JavaScript**
 
  💬 Ask me about **Anything**
 
