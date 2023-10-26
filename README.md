@@ -39,8 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,cpp,c#,java,solidity,nextjs,MySQL,kotlin" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,git,dotnet,angular,laravel,PHP,linux,docker,arduino,MySQL,postman" /><br>
-       <img src="https://skillicons.dev/icons?i=ipfs" /><br>
+    <img src="https://skillicons.dev/icons?i=git,dotnet,angular,laravel,PHP,linux,docker,arduino,MySQL,postman,Wordpress,ipfs" /><br>
 </div>
 
 <br/>
