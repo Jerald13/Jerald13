@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Self-Sovereign Identity Mobile**
+ 🔭 I’m currently working on **MERN e-commerce website**
  
- 🌱 I’m currently learning **Aries Framework JavaScript**
+ 🌱 I’m currently learning **Machine Learning**
 
  💬 Ask me about **Anything**
 
