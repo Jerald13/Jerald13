@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MERN e-commerce website**
+ 🔭 I’m currently working on **NLP**
  
  🌱 I’m currently learning **Machine Learning**
 
