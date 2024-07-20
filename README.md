@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NLP**
+ 🔭 I’m currently working on **C#**
  
- 🌱 I’m currently learning **Machine Learning**
+ 🌱 I’m currently learning **Kurbenetes**
 
  💬 Ask me about **Anything**
 
